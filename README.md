@@ -4,7 +4,7 @@ Este proyecto proporciona una interfaz sencilla en Python para controlar lectore
 
 ## Requisitos de Red
 Para que el programa funcione, tu computadora y el lector deben estar en la misma subred:
-*   **IP del Lector:** `192.168.100.2` (por defecto)
+*   **IP del Lector:** `192.168.100.2` (asignada)
 *   **Submáscara:** `255.255.255.0`
 *   **Puerto de Comando:** `9004`
 *   **IP de la PC Sugerida:** `192.168.100.10`
